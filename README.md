@@ -1,6 +1,7 @@
-# Interpreter.ai - SIH 2022
+# Interpreter.ai
 
-This is submission for Smart India Hackathon 2022 Finals.
+A User-Friendly Translator App for Regional Languages  
+Trained on Flores200 [dataset](https://github.com/facebookresearch/flores).
 
 ## Installation
 
